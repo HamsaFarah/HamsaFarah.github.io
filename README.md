@@ -3,7 +3,7 @@
 
 Computer Science and Systems student at the University of Washington Tacoma interested in backend development, software engineering, and building reliable software systems.
 
-[GitHub](https://github.com/hamsa) | [LinkedIn](https://www.linkedin.com/in/hamsa-farah-15893028a/) | [Email](mailto:hamsafarah18@gmail.com)
+[GitHub]([https://github.com/HamsaFarah](https://github.com/HamsaFarah)) | [LinkedIn](https://www.linkedin.com/in/hamsa-farah-15893028a/) | [Email](mailto:hamsafarah18@gmail.com)
 
 ---
 
@@ -125,4 +125,4 @@ Expected Graduation: June 2028
 
 - **Email:** [hamsafarah18@gmail.com](mailto:hamsafarah18@gmail.com)
 - **LinkedIn:** [linkedin.com/in/hamsa-farah-15893028a](https://www.linkedin.com/in/hamsa-farah-15893028a/)
-- **GitHub:** [github.com/hamsa](https://github.com/hamsa)
+- **GitHub:** [github.com/hamsa](https://github.com/hamsa](https://github.com/HamsaFarah)
