@@ -3,7 +3,7 @@
 
 Computer Science and Systems student at the University of Washington Tacoma interested in backend development, software engineering, and building reliable software systems.
 
-[GitHub](https://github.com/hamsa) | [LinkedIn](https://www.linkedin.com/in/hamsa-farah-15893028a/) | hamsafarah18@gmail.com
+[GitHub](https://github.com/hamsa) | [LinkedIn](https://www.linkedin.com/in/hamsa-farah-15893028a/) | [Email](mailto:hamsafarah18@gmail.com)
 
 ---
 
@@ -20,6 +20,7 @@ I'm continuously developing my technical skills and looking for opportunities to
 ## Projects
 
 ### API Monitoring and Incident Platform
+
 **Technologies:** Java, Spring Boot, PostgreSQL, Docker
 
 **July 2026 – Present**
@@ -31,18 +32,6 @@ A backend platform designed to continuously monitor external HTTP endpoints, tra
 - Designed automated health-check processing with configurable intervals, timeouts, expected HTTP status codes, and latency thresholds.
 - Developed REST APIs with request validation, consistent exception handling, and pagination.
 - Added JUnit and integration tests covering monitoring behavior and failure scenarios.
-
-### Athlete Performance Tracker
-**Technologies:** Node.js, PostgreSQL
-
-**February 2026 – April 2026**
-
-A web application designed to track and analyze athlete performance data across users and training sessions.
-
-- Built a web application using Node.js REST APIs to track and analyze athlete performance data.
-- Designed a relational SQL schema in PostgreSQL for user-specific insights.
-- Implemented JWT-based authentication.
-- Tested protected REST API routes using Postman to validate security and access control.
 
 *This portfolio is a work in progress and will be updated with additional projects and technical experience.*
 
@@ -116,7 +105,8 @@ A web application designed to track and analyze athlete performance data across 
 
 ## Education
 
-### University of Washington
+### University of Washington Tacoma
+
 **Bachelor of Arts in Computer Science and Systems**
 
 Tacoma, WA
@@ -136,5 +126,3 @@ Expected Graduation: June 2028
 - **Email:** [hamsafarah18@gmail.com](mailto:hamsafarah18@gmail.com)
 - **LinkedIn:** [linkedin.com/in/hamsa-farah-15893028a](https://www.linkedin.com/in/hamsa-farah-15893028a/)
 - **GitHub:** [github.com/hamsa](https://github.com/hamsa)
-
-Feel free to reach out regarding software engineering opportunities, projects, or professional connections.
